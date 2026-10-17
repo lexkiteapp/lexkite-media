@@ -75,6 +75,102 @@
    "src": "https://media.lexkite.com/library/src/clips/src/ama_listen_thumbs.mp4"
   },
   {
+   "id": "clips/ama_shock_laugh.mp4",
+   "kind": "clip",
+   "who": "ama",
+   "tags": [
+    "shock",
+    "laugh"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/ama_shock_laugh.mp4",
+   "w": 666,
+   "h": 1498,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    483,
+    1496
+   ],
+   "figH": 1496,
+   "src": "https://media.lexkite.com/library/src/clips/src/ama_shock_laugh.mp4"
+  },
+  {
+   "id": "clips/ama_talk_gesture.mp4",
+   "kind": "clip",
+   "who": "ama",
+   "tags": [
+    "talk",
+    "gesture"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/ama_talk_gesture.mp4",
+   "w": 752,
+   "h": 1464,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    588,
+    1462
+   ],
+   "figH": 1462,
+   "src": "https://media.lexkite.com/library/src/clips/src/ama_talk_gesture.mp4"
+  },
+  {
+   "id": "clips/ama_think_aha.mp4",
+   "kind": "clip",
+   "who": "ama",
+   "tags": [
+    "think",
+    "aha"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/ama_think_aha.mp4",
+   "w": 642,
+   "h": 1474,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    421,
+    1471
+   ],
+   "figH": 1471,
+   "src": "https://media.lexkite.com/library/src/clips/src/ama_think_aha.mp4"
+  },
+  {
+   "id": "clips/ama_wave_clasp.mp4",
+   "kind": "clip",
+   "who": "ama",
+   "tags": [
+    "wave",
+    "clasp"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/ama_wave_clasp.mp4",
+   "w": 846,
+   "h": 1472,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    409,
+    1449
+   ],
+   "figH": 1449,
+   "src": "https://media.lexkite.com/library/src/clips/src/ama_wave_clasp.mp4"
+  },
+  {
    "id": "clips/carlos_listen_thumbs.mp4",
    "kind": "clip",
    "who": "carlos",
@@ -121,6 +217,30 @@
    ],
    "figH": 1573,
    "src": "https://media.lexkite.com/library/src/clips/src/carlos_talk_gesture.mp4"
+  },
+  {
+   "id": "clips/diane_listen_thumbs.mp4",
+   "kind": "clip",
+   "who": "diane",
+   "tags": [
+    "listen",
+    "thumbs"
+   ],
+   "roles": [
+    "listener"
+   ],
+   "url": "https://media.lexkite.com/library/clips/diane_listen_thumbs.mp4",
+   "w": 986,
+   "h": 1562,
+   "duration": 5.062,
+   "qa": 90,
+   "alpha": "stacked",
+   "foot": [
+    240,
+    1559
+   ],
+   "figH": 1559,
+   "src": "https://media.lexkite.com/library/src/clips/src/diane_listen_thumbs.mp4"
   },
   {
    "id": "clips/diane_talk_gesture.mp4",
@@ -243,6 +363,30 @@
    "src": "https://media.lexkite.com/library/src/clips/src/leo_wave_clasp.mp4"
   },
   {
+   "id": "clips/mia_listen_thumbs.mp4",
+   "kind": "clip",
+   "who": "mia",
+   "tags": [
+    "listen",
+    "thumbs"
+   ],
+   "roles": [
+    "listener"
+   ],
+   "url": "https://media.lexkite.com/library/clips/mia_listen_thumbs.mp4",
+   "w": 664,
+   "h": 1740,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    466,
+    1736
+   ],
+   "figH": 1736,
+   "src": "https://media.lexkite.com/library/src/clips/src/mia_listen_thumbs.mp4"
+  },
+  {
    "id": "clips/mia_talk_gesture.mp4",
    "kind": "clip",
    "who": "mia",
@@ -267,6 +411,30 @@
    "src": "https://media.lexkite.com/library/src/clips/src/mia_talk_gesture.mp4"
   },
   {
+   "id": "clips/mia_think_aha.mp4",
+   "kind": "clip",
+   "who": "mia",
+   "tags": [
+    "think",
+    "aha"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/mia_think_aha.mp4",
+   "w": 764,
+   "h": 1750,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    465,
+    1747
+   ],
+   "figH": 1747,
+   "src": "https://media.lexkite.com/library/src/clips/src/mia_think_aha.mp4"
+  },
+  {
    "id": "clips/mia_wave_clasp.mp4",
    "kind": "clip",
    "who": "mia",
@@ -289,6 +457,97 @@
    ],
    "figH": 1739,
    "src": "https://media.lexkite.com/library/src/clips/src/mia_wave_clasp.mp4"
+  },
+  {
+   "id": "rooms/apartment-01-day-9x16.png",
+   "kind": "room",
+   "tags": [
+    "apartment",
+    "day",
+    "9x16"
+   ],
+   "url": "https://media.lexkite.com/library/rooms/apartment-01-day-9x16.webp",
+   "w": 1536,
+   "h": 2720,
+   "qa": 91
+  },
+  {
+   "id": "rooms/apartment-02-day-9x16.png",
+   "kind": "room",
+   "tags": [
+    "apartment",
+    "day",
+    "9x16"
+   ],
+   "url": "https://media.lexkite.com/library/rooms/apartment-02-day-9x16.webp",
+   "w": 1536,
+   "h": 2720,
+   "qa": 91
+  },
+  {
+   "id": "rooms/cafe-01-day-9x16.png",
+   "kind": "room",
+   "tags": [
+    "cafe",
+    "day",
+    "9x16"
+   ],
+   "url": "https://media.lexkite.com/library/rooms/cafe-01-day-9x16.webp",
+   "w": 1536,
+   "h": 2720,
+   "qa": 91
+  },
+  {
+   "id": "rooms/cafe-02-day-9x16.png",
+   "kind": "room",
+   "tags": [
+    "cafe",
+    "day",
+    "9x16"
+   ],
+   "url": "https://media.lexkite.com/library/rooms/cafe-02-day-9x16.webp",
+   "w": 1536,
+   "h": 2720,
+   "qa": 91
+  },
+  {
+   "id": "rooms/office-01-day-9x16.png",
+   "kind": "room",
+   "tags": [
+    "office",
+    "day",
+    "9x16"
+   ],
+   "url": "https://media.lexkite.com/library/rooms/office-01-day-9x16.webp",
+   "w": 1536,
+   "h": 2720,
+   "qa": null
+  },
+  {
+   "id": "rooms/office-02-day-9x16.png",
+   "kind": "room",
+   "tags": [
+    "office",
+    "day",
+    "9x16"
+   ],
+   "url": "https://media.lexkite.com/library/rooms/office-02-day-9x16.webp",
+   "w": 1536,
+   "h": 2720,
+   "qa": null
+  },
+  {
+   "id": "rooms/office-03-day-9x16.png",
+   "kind": "room",
+   "tags": [
+    "office",
+    "day",
+    "9x16"
+   ],
+   "url": "https://media.lexkite.com/library/rooms/office-03-day-9x16.webp",
+   "w": 1536,
+   "h": 2720,
+   "qa": null
   }
  ]
 }
