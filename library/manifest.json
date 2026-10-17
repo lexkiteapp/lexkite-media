@@ -1,0 +1,287 @@
+{
+ "_note": "SINH TỰ ĐỘNG bởi scripts/video/library.mjs (stack / ingest phòng / render-manifest) từ content/video/library.json – sửa outfit/tags/mouth/facing ở đây được giữ lại; foot/figH/w/h đo từ bản stacked. Đường dẫn tương đối với brand/library/. clips: mp4 \"stacked\" = nửa trên màu, nửa dưới mặt nạ alpha (clip_to_layer.py --stacked, đã cắt bóng sàn dính); gốc Kling ở clips/src/. rooms: hồ sơ sàn tự động rooms/<room>.json (auto: true = chưa chỉnh tay).",
+ "rooms": [
+  {
+   "id": "apartment-01-day",
+   "file": "rooms/apartment-01-day-9x16.png",
+   "tag": "apartment",
+   "time": "day",
+   "floor": {
+    "yNear": 1912,
+    "yFar": 1121
+   },
+   "stand": [
+    {
+     "x": 184,
+     "y": 1595
+    },
+    {
+     "x": 631,
+     "y": 1595
+    },
+    {
+     "x": 869,
+     "y": 1595
+    }
+   ],
+   "scaleAt": {
+    "yFar": 1121,
+    "hFar": 196,
+    "yNear": 1912,
+    "hNear": 1092
+   },
+   "light": {
+    "dir": 1,
+    "warmth": 0.19
+   },
+   "vanish": [
+    473,
+    948
+   ],
+   "auto": true,
+   "status": "reserve"
+  },
+  {
+   "id": "apartment-02-day",
+   "file": "rooms/apartment-02-day-9x16.png",
+   "tag": "apartment",
+   "time": "day",
+   "floor": {
+    "yNear": 1912,
+    "yFar": 1511
+   },
+   "stand": [
+    {
+     "x": 184,
+     "y": 1751
+    },
+    {
+     "x": 432,
+     "y": 1751
+    },
+    {
+     "x": 680,
+     "y": 1751
+    }
+   ],
+   "scaleAt": {
+    "yFar": 1511,
+    "hFar": 511,
+    "yNear": 1912,
+    "hNear": 965
+   },
+   "light": {
+    "dir": -1,
+    "warmth": 0.2
+   },
+   "vanish": [
+    577,
+    1060
+   ],
+   "auto": true,
+   "status": "reserve"
+  },
+  {
+   "id": "cafe-01-day",
+   "file": "rooms/cafe-01-day-9x16.png",
+   "tag": "cafe",
+   "time": "day",
+   "floor": {
+    "yNear": 1912,
+    "yFar": 1032
+   },
+   "stand": [
+    {
+     "x": 249,
+     "y": 1560
+    },
+    {
+     "x": 443,
+     "y": 1560
+    },
+    {
+     "x": 692,
+     "y": 1560
+    }
+   ],
+   "scaleAt": {
+    "yFar": 1032,
+    "hFar": 171,
+    "yNear": 1912,
+    "hNear": 1168
+   },
+   "light": {
+    "dir": 1,
+    "warmth": 0.2
+   },
+   "vanish": [
+    581,
+    881
+   ],
+   "auto": true,
+   "status": "reserve"
+  },
+  {
+   "id": "cafe-02-day",
+   "file": "rooms/cafe-02-day-9x16.png",
+   "tag": "cafe",
+   "time": "day",
+   "floor": {
+    "yNear": 1912,
+    "yFar": 1273
+   },
+   "stand": [
+    {
+     "x": 268,
+     "y": 1656
+    },
+    {
+     "x": 462,
+     "y": 1656
+    },
+    {
+     "x": 880,
+     "y": 1656
+    }
+   ],
+   "scaleAt": {
+    "yFar": 1273,
+    "hFar": 281,
+    "yNear": 1912,
+    "hNear": 1005
+   },
+   "light": {
+    "dir": 1,
+    "warmth": 0.17
+   },
+   "vanish": [
+    650,
+    1024
+   ],
+   "auto": true,
+   "status": "reserve"
+  },
+  {
+   "id": "office-01-day",
+   "file": "rooms/office-01-day-9x16.png",
+   "tag": "office",
+   "time": "day",
+   "floor": {
+    "yNear": 1912,
+    "yFar": 1364
+   },
+   "stand": [
+    {
+     "x": 184,
+     "y": 1692
+    },
+    {
+     "x": 432,
+     "y": 1692
+    },
+    {
+     "x": 680,
+     "y": 1692
+    }
+   ],
+   "scaleAt": {
+    "yFar": 1364,
+    "hFar": 281,
+    "yNear": 1912,
+    "hNear": 902
+   },
+   "light": {
+    "dir": -1,
+    "warmth": 0.28
+   },
+   "vanish": [
+    595,
+    1115
+   ],
+   "auto": true,
+   "status": "reserve"
+  },
+  {
+   "id": "office-02-day",
+   "file": "rooms/office-02-day-9x16.png",
+   "tag": "office",
+   "time": "day",
+   "floor": {
+    "yNear": 1912,
+    "yFar": 1076
+   },
+   "stand": [
+    {
+     "x": 184,
+     "y": 1577
+    },
+    {
+     "x": 432,
+     "y": 1577
+    },
+    {
+     "x": 895,
+     "y": 1577
+    }
+   ],
+   "scaleAt": {
+    "yFar": 1076,
+    "hFar": 152,
+    "yNear": 1912,
+    "hNear": 1100
+   },
+   "light": {
+    "dir": -1,
+    "warmth": 0.26
+   },
+   "vanish": [
+    505,
+    941
+   ],
+   "auto": true,
+   "status": "reserve"
+  },
+  {
+   "id": "office-03-day",
+   "file": "rooms/office-03-day-9x16.png",
+   "tag": "office",
+   "time": "day",
+   "floor": {
+    "yNear": 1912,
+    "yFar": 1509
+   },
+   "stand": [
+    {
+     "x": 293,
+     "y": 1750
+    },
+    {
+     "x": 487,
+     "y": 1750
+    },
+    {
+     "x": 681,
+     "y": 1750
+    }
+   ],
+   "scaleAt": {
+    "yFar": 1509,
+    "hFar": 478,
+    "yNear": 1912,
+    "hNear": 934
+   },
+   "light": {
+    "dir": -1,
+    "warmth": 0.26
+   },
+   "vanish": [
+    512,
+    1086
+   ],
+   "auto": true,
+   "status": "reserve"
+  }
+ ],
+ "clips": [],
+ "stills": []
+}
