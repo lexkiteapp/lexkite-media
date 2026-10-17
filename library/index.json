@@ -561,6 +561,58 @@
    "qa": 91
   },
   {
+   "id": "rooms/classroom-01-day-9x16.png",
+   "kind": "room",
+   "tags": [
+    "classroom",
+    "day",
+    "9x16"
+   ],
+   "url": "https://media.lexkite.com/library/rooms/classroom-01-day-9x16.webp",
+   "w": 1536,
+   "h": 2720,
+   "qa": 90
+  },
+  {
+   "id": "rooms/clinic-01-day-9x16.png",
+   "kind": "room",
+   "tags": [
+    "clinic",
+    "day",
+    "9x16"
+   ],
+   "url": "https://media.lexkite.com/library/rooms/clinic-01-day-9x16.webp",
+   "w": 1536,
+   "h": 2720,
+   "qa": 90
+  },
+  {
+   "id": "rooms/hotel-lobby-01-day-9x16.png",
+   "kind": "room",
+   "tags": [
+    "hotel-lobby",
+    "day",
+    "9x16"
+   ],
+   "url": "https://media.lexkite.com/library/rooms/hotel-lobby-01-day-9x16.webp",
+   "w": 1536,
+   "h": 2720,
+   "qa": 92
+  },
+  {
+   "id": "rooms/library-01-day-9x16.png",
+   "kind": "room",
+   "tags": [
+    "library",
+    "day",
+    "9x16"
+   ],
+   "url": "https://media.lexkite.com/library/rooms/library-01-day-9x16.webp",
+   "w": 1536,
+   "h": 2720,
+   "qa": 92
+  },
+  {
    "id": "rooms/office-01-day-9x16.png",
    "kind": "room",
    "tags": [
@@ -598,6 +650,32 @@
    "w": 1536,
    "h": 2720,
    "qa": null
+  },
+  {
+   "id": "rooms/reception-01-day-9x16.png",
+   "kind": "room",
+   "tags": [
+    "reception",
+    "day",
+    "9x16"
+   ],
+   "url": "https://media.lexkite.com/library/rooms/reception-01-day-9x16.webp",
+   "w": 1536,
+   "h": 2720,
+   "qa": 90
+  },
+  {
+   "id": "rooms/supermarket-01-day-9x16.png",
+   "kind": "room",
+   "tags": [
+    "supermarket",
+    "day",
+    "9x16"
+   ],
+   "url": "https://media.lexkite.com/library/rooms/supermarket-01-day-9x16.webp",
+   "w": 1536,
+   "h": 2720,
+   "qa": 90
   }
  ]
 }
