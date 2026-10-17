@@ -49,6 +49,246 @@
    "w": 1760,
    "h": 2336,
    "qa": 93
+  },
+  {
+   "id": "clips/ama_listen_thumbs.mp4",
+   "kind": "clip",
+   "who": "ama",
+   "tags": [
+    "listen",
+    "thumbs"
+   ],
+   "roles": [
+    "listener"
+   ],
+   "url": "https://media.lexkite.com/library/clips/ama_listen_thumbs.mp4",
+   "w": 676,
+   "h": 1510,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    452,
+    1506
+   ],
+   "figH": 1506,
+   "src": "https://media.lexkite.com/library/src/clips/src/ama_listen_thumbs.mp4"
+  },
+  {
+   "id": "clips/carlos_listen_thumbs.mp4",
+   "kind": "clip",
+   "who": "carlos",
+   "tags": [
+    "listen",
+    "thumbs"
+   ],
+   "roles": [
+    "listener"
+   ],
+   "url": "https://media.lexkite.com/library/clips/carlos_listen_thumbs.mp4",
+   "w": 894,
+   "h": 1562,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    158,
+    1558
+   ],
+   "figH": 1558,
+   "src": "https://media.lexkite.com/library/src/clips/src/carlos_listen_thumbs.mp4"
+  },
+  {
+   "id": "clips/carlos_talk_gesture.mp4",
+   "kind": "clip",
+   "who": "carlos",
+   "tags": [
+    "talk",
+    "gesture"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/carlos_talk_gesture.mp4",
+   "w": 948,
+   "h": 1576,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    213,
+    1573
+   ],
+   "figH": 1573,
+   "src": "https://media.lexkite.com/library/src/clips/src/carlos_talk_gesture.mp4"
+  },
+  {
+   "id": "clips/diane_talk_gesture.mp4",
+   "kind": "clip",
+   "who": "diane",
+   "tags": [
+    "talk",
+    "gesture"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/diane_talk_gesture.mp4",
+   "w": 984,
+   "h": 1562,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    256,
+    1560
+   ],
+   "figH": 1560,
+   "src": "https://media.lexkite.com/library/src/clips/src/diane_talk_gesture.mp4"
+  },
+  {
+   "id": "clips/diane_think_aha.mp4",
+   "kind": "clip",
+   "who": "diane",
+   "tags": [
+    "think",
+    "aha"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/diane_think_aha.mp4",
+   "w": 858,
+   "h": 1572,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    222,
+    1569
+   ],
+   "figH": 1569,
+   "src": "https://media.lexkite.com/library/src/clips/src/diane_think_aha.mp4"
+  },
+  {
+   "id": "clips/diane_wave_clasp.mp4",
+   "kind": "clip",
+   "who": "diane",
+   "tags": [
+    "wave",
+    "clasp"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/diane_wave_clasp.mp4",
+   "w": 1114,
+   "h": 1562,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    473,
+    1554
+   ],
+   "figH": 1554,
+   "src": "https://media.lexkite.com/library/src/clips/src/diane_wave_clasp.mp4"
+  },
+  {
+   "id": "clips/leo_listen_thumbs.mp4",
+   "kind": "clip",
+   "who": "leo",
+   "tags": [
+    "listen",
+    "thumbs"
+   ],
+   "roles": [
+    "listener"
+   ],
+   "url": "https://media.lexkite.com/library/clips/leo_listen_thumbs.mp4",
+   "w": 776,
+   "h": 1510,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    162,
+    1508
+   ],
+   "figH": 1508,
+   "src": "https://media.lexkite.com/library/src/clips/src/leo_listen_thumbs.mp4"
+  },
+  {
+   "id": "clips/leo_wave_clasp.mp4",
+   "kind": "clip",
+   "who": "leo",
+   "tags": [
+    "wave",
+    "clasp"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/leo_wave_clasp.mp4",
+   "w": 876,
+   "h": 1508,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    162,
+    1506
+   ],
+   "figH": 1506,
+   "src": "https://media.lexkite.com/library/src/clips/src/leo_wave_clasp.mp4"
+  },
+  {
+   "id": "clips/mia_talk_gesture.mp4",
+   "kind": "clip",
+   "who": "mia",
+   "tags": [
+    "talk",
+    "gesture"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/mia_talk_gesture.mp4",
+   "w": 980,
+   "h": 1754,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    518,
+    1751
+   ],
+   "figH": 1751,
+   "src": "https://media.lexkite.com/library/src/clips/src/mia_talk_gesture.mp4"
+  },
+  {
+   "id": "clips/mia_wave_clasp.mp4",
+   "kind": "clip",
+   "who": "mia",
+   "tags": [
+    "wave",
+    "clasp"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/mia_wave_clasp.mp4",
+   "w": 854,
+   "h": 1742,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    728,
+    1739
+   ],
+   "figH": 1739,
+   "src": "https://media.lexkite.com/library/src/clips/src/mia_wave_clasp.mp4"
   }
  ]
 }
