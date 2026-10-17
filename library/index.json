@@ -75,6 +75,31 @@
    "src": "https://media.lexkite.com/library/src/clips/src/ama_listen_thumbs.mp4"
   },
   {
+   "id": "clips/ama_q_talk_nod.mp4",
+   "kind": "clip",
+   "who": "ama",
+   "tags": [
+    "q",
+    "talk",
+    "nod"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/ama_q_talk_nod.mp4",
+   "w": 754,
+   "h": 1512,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    188,
+    1510
+   ],
+   "figH": 1510,
+   "src": "https://media.lexkite.com/library/src/clips/src/ama_q_talk_nod.mp4"
+  },
+  {
    "id": "clips/ama_shock_laugh.mp4",
    "kind": "clip",
    "who": "ama",
@@ -193,6 +218,31 @@
    ],
    "figH": 1558,
    "src": "https://media.lexkite.com/library/src/clips/src/carlos_listen_thumbs.mp4"
+  },
+  {
+   "id": "clips/carlos_q_talk_thumbs.mp4",
+   "kind": "clip",
+   "who": "carlos",
+   "tags": [
+    "q",
+    "talk",
+    "thumbs"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/carlos_q_talk_thumbs.mp4",
+   "w": 988,
+   "h": 1584,
+   "duration": 5.062,
+   "qa": 91,
+   "alpha": "stacked",
+   "foot": [
+    534,
+    1581
+   ],
+   "figH": 1581,
+   "src": "https://media.lexkite.com/library/src/clips/src/carlos_q_talk_thumbs.mp4"
   },
   {
    "id": "clips/carlos_talk_gesture.mp4",
