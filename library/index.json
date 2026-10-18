@@ -293,6 +293,31 @@
    "src": "https://media.lexkite.com/library/src/clips/src/carlos_talk_gesture.mp4"
   },
   {
+   "id": "clips/diane_listen_thumbs_casual.mp4",
+   "kind": "clip",
+   "who": "diane",
+   "tags": [
+    "listen",
+    "thumbs",
+    "casual"
+   ],
+   "roles": [
+    "listener"
+   ],
+   "url": "https://media.lexkite.com/library/clips/diane_listen_thumbs_casual.mp4",
+   "w": 888,
+   "h": 1558,
+   "duration": 5.062,
+   "qa": 91,
+   "alpha": "stacked",
+   "foot": [
+    176,
+    1547
+   ],
+   "figH": 1547,
+   "src": "https://media.lexkite.com/library/src/clips/src/diane_listen_thumbs_casual.mp4"
+  },
+  {
    "id": "clips/diane_listen_thumbs.mp4",
    "kind": "clip",
    "who": "diane",
@@ -727,29 +752,30 @@
    "qa": 90
   },
   {
-   "id": "clips/diane_listen_thumbs_casual.mp4",
+   "id": "clips/diane_q_talk_nod_casual.mp4",
    "kind": "clip",
    "who": "diane",
    "tags": [
-    "listen",
-    "thumbs",
+    "q",
+    "talk",
+    "nod",
     "casual"
    ],
    "roles": [
-    "listener"
+    "speaker"
    ],
-   "url": "https://media.lexkite.com/library/clips/diane_listen_thumbs_casual.mp4",
-   "w": 888,
-   "h": 1558,
-   "duration": 5.062,
+   "url": "https://media.lexkite.com/library/clips/diane_q_talk_nod_casual.mp4",
+   "w": 630,
+   "h": 1582,
+   "duration": 4.208,
    "qa": 91,
    "alpha": "stacked",
    "foot": [
-    176,
-    1547
+    452,
+    1573
    ],
-   "figH": 1547,
-   "src": "https://media.lexkite.com/library/src/clips/src/diane_listen_thumbs_casual.mp4"
+   "figH": 1573,
+   "src": "https://media.lexkite.com/library/src/clips/src/diane_q_talk_nod_casual.mp4"
   }
  ]
 }
