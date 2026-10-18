@@ -686,6 +686,31 @@
    "src": "https://media.lexkite.com/library/src/clips/src/mia_talk_gesture_casual.mp4"
   },
   {
+   "id": "clips/mia_talk_gesture_travel.mp4",
+   "kind": "clip",
+   "who": "mia",
+   "tags": [
+    "talk",
+    "gesture",
+    "travel"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/mia_talk_gesture_travel.mp4",
+   "w": 820,
+   "h": 1750,
+   "duration": 3.125,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    642,
+    1747
+   ],
+   "figH": 1747,
+   "src": "https://media.lexkite.com/library/src/clips/src/mia_talk_gesture_travel.mp4"
+  },
+  {
    "id": "clips/mia_talk_gesture.mp4",
    "kind": "clip",
    "who": "mia",
@@ -733,6 +758,31 @@
    ],
    "figH": 1747,
    "src": "https://media.lexkite.com/library/src/clips/src/mia_think_aha_casual.mp4"
+  },
+  {
+   "id": "clips/mia_think_aha_travel.mp4",
+   "kind": "clip",
+   "who": "mia",
+   "tags": [
+    "think",
+    "aha",
+    "travel"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/mia_think_aha_travel.mp4",
+   "w": 750,
+   "h": 1756,
+   "duration": 3.625,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    490,
+    1753
+   ],
+   "figH": 1753,
+   "src": "https://media.lexkite.com/library/src/clips/src/mia_think_aha_travel.mp4"
   },
   {
    "id": "clips/mia_think_aha.mp4",
@@ -1002,54 +1052,30 @@
    "qa": 90
   },
   {
-   "id": "clips/mia_talk_gesture_travel.mp4",
+   "id": "clips/carlos_q_talk_nod_travel.mp4",
    "kind": "clip",
-   "who": "mia",
+   "who": "carlos",
    "tags": [
+    "q",
     "talk",
-    "gesture",
+    "nod",
     "travel"
    ],
    "roles": [
     "speaker"
    ],
-   "url": "https://media.lexkite.com/library/clips/mia_talk_gesture_travel.mp4",
-   "w": 820,
-   "h": 1750,
-   "duration": 3.125,
-   "qa": 92,
+   "url": "https://media.lexkite.com/library/clips/carlos_q_talk_nod_travel.mp4",
+   "w": 826,
+   "h": 1598,
+   "duration": 5.062,
+   "qa": 91,
    "alpha": "stacked",
    "foot": [
-    642,
-    1747
+    533,
+    1595
    ],
-   "figH": 1747,
-   "src": "https://media.lexkite.com/library/src/clips/src/mia_talk_gesture_travel.mp4"
-  },
-  {
-   "id": "clips/mia_think_aha_travel.mp4",
-   "kind": "clip",
-   "who": "mia",
-   "tags": [
-    "think",
-    "aha",
-    "travel"
-   ],
-   "roles": [
-    "speaker"
-   ],
-   "url": "https://media.lexkite.com/library/clips/mia_think_aha_travel.mp4",
-   "w": 750,
-   "h": 1756,
-   "duration": 3.625,
-   "qa": 92,
-   "alpha": "stacked",
-   "foot": [
-    490,
-    1753
-   ],
-   "figH": 1753,
-   "src": "https://media.lexkite.com/library/src/clips/src/mia_think_aha_travel.mp4"
+   "figH": 1595,
+   "src": "https://media.lexkite.com/library/src/clips/src/carlos_q_talk_nod_travel.mp4"
   }
  ]
 }
