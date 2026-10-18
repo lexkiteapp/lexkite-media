@@ -635,6 +635,31 @@
    "src": "https://media.lexkite.com/library/src/clips/src/mia_talk_gesture.mp4"
   },
   {
+   "id": "clips/mia_think_aha_casual.mp4",
+   "kind": "clip",
+   "who": "mia",
+   "tags": [
+    "think",
+    "aha",
+    "casual"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/mia_think_aha_casual.mp4",
+   "w": 764,
+   "h": 1750,
+   "duration": 2.958,
+   "qa": 91,
+   "alpha": "stacked",
+   "foot": [
+    458,
+    1747
+   ],
+   "figH": 1747,
+   "src": "https://media.lexkite.com/library/src/clips/src/mia_think_aha_casual.mp4"
+  },
+  {
    "id": "clips/mia_think_aha.mp4",
    "kind": "clip",
    "who": "mia",
@@ -877,29 +902,104 @@
    "qa": 90
   },
   {
-   "id": "clips/mia_think_aha_casual.mp4",
+   "id": "clips/mia_wave_clasp_travel.mp4",
    "kind": "clip",
    "who": "mia",
    "tags": [
-    "think",
-    "aha",
-    "casual"
+    "wave",
+    "clasp",
+    "travel"
    ],
    "roles": [
     "speaker"
    ],
-   "url": "https://media.lexkite.com/library/clips/mia_think_aha_casual.mp4",
-   "w": 764,
-   "h": 1750,
-   "duration": 2.958,
+   "url": "https://media.lexkite.com/library/clips/mia_wave_clasp_travel.mp4",
+   "w": 806,
+   "h": 1752,
+   "duration": 1.5,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    694,
+    1749
+   ],
+   "figH": 1749,
+   "src": "https://media.lexkite.com/library/src/clips/src/mia_wave_clasp_travel.mp4"
+  },
+  {
+   "id": "clips/mia_listen_thumbs_travel.mp4",
+   "kind": "clip",
+   "who": "mia",
+   "tags": [
+    "listen",
+    "thumbs",
+    "travel"
+   ],
+   "roles": [
+    "listener"
+   ],
+   "url": "https://media.lexkite.com/library/clips/mia_listen_thumbs_travel.mp4",
+   "w": 662,
+   "h": 1762,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    559,
+    1759
+   ],
+   "figH": 1759,
+   "src": "https://media.lexkite.com/library/src/clips/src/mia_listen_thumbs_travel.mp4"
+  },
+  {
+   "id": "clips/carlos_talk_gesture_travel.mp4",
+   "kind": "clip",
+   "who": "carlos",
+   "tags": [
+    "talk",
+    "gesture",
+    "travel"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/carlos_talk_gesture_travel.mp4",
+   "w": 934,
+   "h": 1588,
+   "duration": 5.062,
    "qa": 91,
    "alpha": "stacked",
    "foot": [
-    458,
-    1747
+    330,
+    1576
    ],
-   "figH": 1747,
-   "src": "https://media.lexkite.com/library/src/clips/src/mia_think_aha_casual.mp4"
+   "figH": 1576,
+   "src": "https://media.lexkite.com/library/src/clips/src/carlos_talk_gesture_travel.mp4"
+  },
+  {
+   "id": "clips/carlos_listen_thumbs_travel.mp4",
+   "kind": "clip",
+   "who": "carlos",
+   "tags": [
+    "listen",
+    "thumbs",
+    "travel"
+   ],
+   "roles": [
+    "listener"
+   ],
+   "url": "https://media.lexkite.com/library/clips/carlos_listen_thumbs_travel.mp4",
+   "w": 740,
+   "h": 1572,
+   "duration": 5.062,
+   "qa": 91,
+   "alpha": "stacked",
+   "foot": [
+    195,
+    1570
+   ],
+   "figH": 1570,
+   "src": "https://media.lexkite.com/library/src/clips/src/carlos_listen_thumbs_travel.mp4"
   }
  ]
 }
