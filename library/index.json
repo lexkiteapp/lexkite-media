@@ -700,6 +700,31 @@
    "w": 1536,
    "h": 2720,
    "qa": 90
+  },
+  {
+   "id": "clips/diane_talk_gesture_casual.mp4",
+   "kind": "clip",
+   "who": "diane",
+   "tags": [
+    "talk",
+    "gesture",
+    "casual"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/diane_talk_gesture_casual.mp4",
+   "w": 1216,
+   "h": 1560,
+   "duration": 1.708,
+   "qa": 91,
+   "alpha": "stacked",
+   "foot": [
+    396,
+    1558
+   ],
+   "figH": 1558,
+   "src": "https://media.lexkite.com/library/src/clips/src/diane_talk_gesture_casual.mp4"
   }
  ]
 }
