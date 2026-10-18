@@ -27,6 +27,18 @@
    "qa": 91
   },
   {
+   "id": "chars/carlos/green-travel.png",
+   "kind": "char",
+   "who": "carlos",
+   "tags": [
+    "green-travel"
+   ],
+   "url": "https://media.lexkite.com/library/chars/carlos/green-travel.webp",
+   "w": 1760,
+   "h": 2336,
+   "qa": 92
+  },
+  {
    "id": "chars/diane/dna.png",
    "kind": "char",
    "who": "diane",
@@ -70,6 +82,18 @@
     "green-casual"
    ],
    "url": "https://media.lexkite.com/library/chars/mia/green-casual.webp",
+   "w": 1536,
+   "h": 2720,
+   "qa": 92
+  },
+  {
+   "id": "chars/mia/green-travel.png",
+   "kind": "char",
+   "who": "mia",
+   "tags": [
+    "green-travel"
+   ],
+   "url": "https://media.lexkite.com/library/chars/mia/green-travel.webp",
    "w": 1536,
    "h": 2720,
    "qa": 92
@@ -340,6 +364,32 @@
    ],
    "figH": 1559,
    "src": "https://media.lexkite.com/library/src/clips/src/diane_listen_thumbs.mp4"
+  },
+  {
+   "id": "clips/diane_q_talk_nod_casual.mp4",
+   "kind": "clip",
+   "who": "diane",
+   "tags": [
+    "q",
+    "talk",
+    "nod",
+    "casual"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/diane_q_talk_nod_casual.mp4",
+   "w": 630,
+   "h": 1582,
+   "duration": 4.208,
+   "qa": 91,
+   "alpha": "stacked",
+   "foot": [
+    452,
+    1573
+   ],
+   "figH": 1573,
+   "src": "https://media.lexkite.com/library/src/clips/src/diane_q_talk_nod_casual.mp4"
   },
   {
    "id": "clips/diane_talk_gesture_casual.mp4",
@@ -752,30 +802,79 @@
    "qa": 90
   },
   {
-   "id": "clips/diane_q_talk_nod_casual.mp4",
+   "id": "clips/mia_talk_gesture_casual.mp4",
    "kind": "clip",
-   "who": "diane",
+   "who": "mia",
    "tags": [
-    "q",
     "talk",
-    "nod",
+    "gesture",
     "casual"
    ],
    "roles": [
     "speaker"
    ],
-   "url": "https://media.lexkite.com/library/clips/diane_q_talk_nod_casual.mp4",
-   "w": 630,
-   "h": 1582,
-   "duration": 4.208,
-   "qa": 91,
+   "url": "https://media.lexkite.com/library/clips/mia_talk_gesture_casual.mp4",
+   "w": 842,
+   "h": 1778,
+   "duration": 5.062,
+   "qa": 92,
    "alpha": "stacked",
    "foot": [
-    452,
-    1573
+    633,
+    1776
    ],
-   "figH": 1573,
-   "src": "https://media.lexkite.com/library/src/clips/src/diane_q_talk_nod_casual.mp4"
+   "figH": 1776,
+   "src": "https://media.lexkite.com/library/src/clips/src/mia_talk_gesture_casual.mp4"
+  },
+  {
+   "id": "clips/mia_wave_clasp_casual.mp4",
+   "kind": "clip",
+   "who": "mia",
+   "tags": [
+    "wave",
+    "clasp",
+    "casual"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/mia_wave_clasp_casual.mp4",
+   "w": 750,
+   "h": 1772,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    536,
+    1763
+   ],
+   "figH": 1763,
+   "src": "https://media.lexkite.com/library/src/clips/src/mia_wave_clasp_casual.mp4"
+  },
+  {
+   "id": "clips/mia_listen_thumbs_casual.mp4",
+   "kind": "clip",
+   "who": "mia",
+   "tags": [
+    "listen",
+    "thumbs",
+    "casual"
+   ],
+   "roles": [
+    "listener"
+   ],
+   "url": "https://media.lexkite.com/library/clips/mia_listen_thumbs_casual.mp4",
+   "w": 690,
+   "h": 1772,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    473,
+    1768
+   ],
+   "figH": 1768,
+   "src": "https://media.lexkite.com/library/src/clips/src/mia_listen_thumbs_casual.mp4"
   }
  ]
 }
