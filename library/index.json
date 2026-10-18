@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "cdn": "https://media.lexkite.com/library/",
  "items": [
   {
@@ -39,6 +39,18 @@
    "qa": 90
   },
   {
+   "id": "chars/diane/green-casual.png",
+   "kind": "char",
+   "who": "diane",
+   "tags": [
+    "green-casual"
+   ],
+   "url": "https://media.lexkite.com/library/chars/diane/green-casual.webp",
+   "w": 1760,
+   "h": 2336,
+   "qa": 92
+  },
+  {
    "id": "chars/leo/dna.png",
    "kind": "char",
    "who": "leo",
@@ -49,6 +61,18 @@
    "w": 1760,
    "h": 2336,
    "qa": 93
+  },
+  {
+   "id": "chars/mia/green-casual.png",
+   "kind": "char",
+   "who": "mia",
+   "tags": [
+    "green-casual"
+   ],
+   "url": "https://media.lexkite.com/library/chars/mia/green-casual.webp",
+   "w": 1536,
+   "h": 2720,
+   "qa": 92
   },
   {
    "id": "clips/ama_listen_thumbs.mp4",
