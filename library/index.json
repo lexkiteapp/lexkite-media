@@ -537,6 +537,31 @@
    "src": "https://media.lexkite.com/library/src/clips/src/leo_wave_clasp.mp4"
   },
   {
+   "id": "clips/mia_listen_thumbs_casual.mp4",
+   "kind": "clip",
+   "who": "mia",
+   "tags": [
+    "listen",
+    "thumbs",
+    "casual"
+   ],
+   "roles": [
+    "listener"
+   ],
+   "url": "https://media.lexkite.com/library/clips/mia_listen_thumbs_casual.mp4",
+   "w": 690,
+   "h": 1772,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    473,
+    1768
+   ],
+   "figH": 1768,
+   "src": "https://media.lexkite.com/library/src/clips/src/mia_listen_thumbs_casual.mp4"
+  },
+  {
    "id": "clips/mia_listen_thumbs.mp4",
    "kind": "clip",
    "who": "mia",
@@ -559,6 +584,31 @@
    ],
    "figH": 1736,
    "src": "https://media.lexkite.com/library/src/clips/src/mia_listen_thumbs.mp4"
+  },
+  {
+   "id": "clips/mia_talk_gesture_casual.mp4",
+   "kind": "clip",
+   "who": "mia",
+   "tags": [
+    "talk",
+    "gesture",
+    "casual"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/mia_talk_gesture_casual.mp4",
+   "w": 842,
+   "h": 1778,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    633,
+    1776
+   ],
+   "figH": 1776,
+   "src": "https://media.lexkite.com/library/src/clips/src/mia_talk_gesture_casual.mp4"
   },
   {
    "id": "clips/mia_talk_gesture.mp4",
@@ -607,6 +657,31 @@
    ],
    "figH": 1747,
    "src": "https://media.lexkite.com/library/src/clips/src/mia_think_aha.mp4"
+  },
+  {
+   "id": "clips/mia_wave_clasp_casual.mp4",
+   "kind": "clip",
+   "who": "mia",
+   "tags": [
+    "wave",
+    "clasp",
+    "casual"
+   ],
+   "roles": [
+    "speaker"
+   ],
+   "url": "https://media.lexkite.com/library/clips/mia_wave_clasp_casual.mp4",
+   "w": 750,
+   "h": 1772,
+   "duration": 5.062,
+   "qa": 92,
+   "alpha": "stacked",
+   "foot": [
+    536,
+    1763
+   ],
+   "figH": 1763,
+   "src": "https://media.lexkite.com/library/src/clips/src/mia_wave_clasp_casual.mp4"
   },
   {
    "id": "clips/mia_wave_clasp.mp4",
@@ -802,79 +877,29 @@
    "qa": 90
   },
   {
-   "id": "clips/mia_talk_gesture_casual.mp4",
+   "id": "clips/mia_think_aha_casual.mp4",
    "kind": "clip",
    "who": "mia",
    "tags": [
-    "talk",
-    "gesture",
+    "think",
+    "aha",
     "casual"
    ],
    "roles": [
     "speaker"
    ],
-   "url": "https://media.lexkite.com/library/clips/mia_talk_gesture_casual.mp4",
-   "w": 842,
-   "h": 1778,
-   "duration": 5.062,
-   "qa": 92,
+   "url": "https://media.lexkite.com/library/clips/mia_think_aha_casual.mp4",
+   "w": 764,
+   "h": 1750,
+   "duration": 2.958,
+   "qa": 91,
    "alpha": "stacked",
    "foot": [
-    633,
-    1776
+    458,
+    1747
    ],
-   "figH": 1776,
-   "src": "https://media.lexkite.com/library/src/clips/src/mia_talk_gesture_casual.mp4"
-  },
-  {
-   "id": "clips/mia_wave_clasp_casual.mp4",
-   "kind": "clip",
-   "who": "mia",
-   "tags": [
-    "wave",
-    "clasp",
-    "casual"
-   ],
-   "roles": [
-    "speaker"
-   ],
-   "url": "https://media.lexkite.com/library/clips/mia_wave_clasp_casual.mp4",
-   "w": 750,
-   "h": 1772,
-   "duration": 5.062,
-   "qa": 92,
-   "alpha": "stacked",
-   "foot": [
-    536,
-    1763
-   ],
-   "figH": 1763,
-   "src": "https://media.lexkite.com/library/src/clips/src/mia_wave_clasp_casual.mp4"
-  },
-  {
-   "id": "clips/mia_listen_thumbs_casual.mp4",
-   "kind": "clip",
-   "who": "mia",
-   "tags": [
-    "listen",
-    "thumbs",
-    "casual"
-   ],
-   "roles": [
-    "listener"
-   ],
-   "url": "https://media.lexkite.com/library/clips/mia_listen_thumbs_casual.mp4",
-   "w": 690,
-   "h": 1772,
-   "duration": 5.062,
-   "qa": 92,
-   "alpha": "stacked",
-   "foot": [
-    473,
-    1768
-   ],
-   "figH": 1768,
-   "src": "https://media.lexkite.com/library/src/clips/src/mia_listen_thumbs_casual.mp4"
+   "figH": 1747,
+   "src": "https://media.lexkite.com/library/src/clips/src/mia_think_aha_casual.mp4"
   }
  ]
 }
